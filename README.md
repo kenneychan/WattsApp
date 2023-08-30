@@ -4,9 +4,9 @@
 
 With your help WattsApp is a full stack application seeks to build the worlds largest EV charging network.
 
-## Kanban
+## Link to deployed App (Heroku)
 
-[Trello Board](https://trello.com/b/9JXfmceJ/syncedin)
+[WattsApp](https://testwattsapp-e959c89bfcf3.herokuapp.com/)
 
 ## ERD
 

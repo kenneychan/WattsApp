@@ -31,4 +31,4 @@ With your help WattsApp is a full stack application seeks to build the worlds la
 
 ## Next Steps
 
-- Messed up React code
+- Port code to React Native to run on mobile device

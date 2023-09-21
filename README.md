@@ -4,9 +4,9 @@
 
 With your help WattsApp is a full stack application seeks to build the worlds largest EV charging network.
 
-## Link to deployed App (Heroku)
+## Kanban
 
-[WattsApp](https://testwattsapp-e959c89bfcf3.herokuapp.com/)
+[Trello Board](https://trello.com/b/9JXfmceJ/syncedin)
 
 ## ERD
 
@@ -31,4 +31,6 @@ With your help WattsApp is a full stack application seeks to build the worlds la
 
 ## Next Steps
 
-- Port code to React Native to run on mobile device
+- Port to [React Native](https://reactnative.dev/)
+- Read battery status [Tesla API](teslaapi.io/vehicles/state-and-settings)
+- Read [EV Charging Station](https://developer.here.com/documentation/charging-stations/dev_guide/topics/overview.html)
